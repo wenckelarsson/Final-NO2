@@ -147,6 +147,7 @@ footer{
 	position: relative;
 	height: 26px;
 	width: 70px;
+	Display: Flex;
 }
 .switch .circle {
 	background-color: lightgray;
