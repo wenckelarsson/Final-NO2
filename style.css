@@ -306,8 +306,7 @@ footer{
 
     }
     nav ul li a:link, nav ul li a:visited{
-        padding-top: 7%;
-
+        padding: 7%;
     }
 
 .fontStyle{
