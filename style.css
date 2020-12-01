@@ -105,6 +105,12 @@ footer{
 .bottun{
     float: right;
 }
+.overSkrift {
+  font-size: 25px
+}
+.overSkrift2 {
+  font-size: 20px
+}
 /*------------------------Darkmode------------------*/
 
 .dark-mode {
