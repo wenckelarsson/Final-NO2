@@ -311,6 +311,7 @@ footer{
     .logo{
         width: 70%;
     }
+	
 
     .fontStyle{
         font-size: 14px;
@@ -323,7 +324,11 @@ footer{
     .smallbox{
         width: 90%;
         font-size: 70%;
-    }
+	}
+	
+	.overSkrift .overSkrift2 {
+		font-size: 90%;
+	}
 }
 
 @media screen and (max-width: 160px){
