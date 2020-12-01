@@ -219,11 +219,8 @@ footer{
         display: block;
         text-align: center;
         padding-top: 2%;
+	padding: 4%;
 
-    }
-    nav ul li a:hover, nav ul li a:active{
-
-        padding: 2%;
     }
     nav ul{
         width: 98%;
